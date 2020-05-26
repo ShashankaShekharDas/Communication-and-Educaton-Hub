@@ -1,0 +1,6 @@
+goodbye
+hi
+please
+sorry
+thanks
+welcome
